@@ -15,7 +15,6 @@ getting started with installing Millennial, whether you are completely new to us
 
 ## Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
 
 ## Questions?
 
