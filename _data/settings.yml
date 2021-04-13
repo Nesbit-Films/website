@@ -8,8 +8,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'About', folder: 'pages', link: 'https://nesbitfilms.com/facts/about-the-author.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+menu2:
+- {name: 'About', link: 'https://nesbitfilms.com/facts/about-the-author.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
