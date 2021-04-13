@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Nesbit Films"
-description:	       "A young blossoming photographer, cinematographer, musician, and writer"
+description:	       "A young blossoming photographer, cinematographer, musician, and writer."
 author:              "Thomas Nesbit"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
