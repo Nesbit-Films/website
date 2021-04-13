@@ -7,4 +7,4 @@ tags: [sample]
 image: IMG_1798.JPG
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hello, I am Thomas Nesbit the creator and founder of Nesbit Films LLC. We are a growing film production company with three employees. I have recently graduated Iowa State University with a degree in Environmental Science with a minor in Biology. I am choosing to follow the road less traveled and have started my jouney into the arts including but not limited to, music, film, photography, and writing. Follow me through my creative and inspirational travels!
